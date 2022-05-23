@@ -1,2 +1,2 @@
 # Time-seres-analysis
-Demo for TSA
+Basics of TSA revision
